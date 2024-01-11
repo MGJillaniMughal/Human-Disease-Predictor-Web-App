@@ -1,6 +1,5 @@
 # Human-Disease Predictor Web App
 
-![Web App Screenshot]
 
 ## Description
 
